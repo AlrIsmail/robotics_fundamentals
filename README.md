@@ -17,6 +17,8 @@ We will learn about the following topics:
 ### introduction to rigid body motions
 We will learn about the following topics:
 - [ ] Rotation matrices
+- [ ] Angular velocity
+- [ ] Exponential coordinates
 
 
 
