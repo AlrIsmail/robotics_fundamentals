@@ -7,7 +7,6 @@
 This repository contains personal code and notes focusing on robotics fundamental using "Modern Robotics: Mechanics, Planning, and Control" by Kevin M. Lynch and Frank C and other resources. Park. I don't own any of the material, I just want to share my personal notes and code while I learn about robotics fundamentals.
 ## Overview of the repository
 ### foundation of robotics motions
-We will learn about the following topics:
 - [ ] Degrees of freedom of a rigid body
 - [ ] Degrees of freedom of a robot
 - [ ] Configuration space Topology
@@ -15,13 +14,18 @@ We will learn about the following topics:
 - [ ] Taskspace and Workspace
 
 ### introduction to rigid body motions
-We will learn about the following topics:
 - [ ] Rotation matrices
 - [ ] Angular velocity
 - [ ] Exponential coordinates
 - [ ] Homogeneous transformations
 - [ ] Twists
 - [ ] Wrenches
+
+### forward kinematics of open chains robots
+- [ ] Zero configuration
+- [ ] Configuration of end-effectors
+- [ ] Product of exponentials formula
+
 
 
 
