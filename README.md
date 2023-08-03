@@ -26,6 +26,9 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Configuration of end-effectors
 - [ ] Product of exponentials formula
 
+### velocity kinematics and statics
+- [ ] Jacobian matrix
+- [ ] Manipulability ellipsoid
 
 
 
