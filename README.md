@@ -29,6 +29,8 @@ This repository contains personal code and notes focusing on robotics fundamenta
 ### velocity kinematics and statics
 - [ ] Jacobian matrix
 - [ ] Manipulability ellipsoid
+- [ ] Body and space jacobians
+- [ ] Statics of open chains
 
 
 
