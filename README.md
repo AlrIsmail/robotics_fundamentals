@@ -31,6 +31,8 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Manipulability ellipsoid
 - [ ] Body and space jacobians
 - [ ] Statics of open chains
+- [ ] Singularity
+- [ ] Manipularity
 
 
 
