@@ -34,5 +34,8 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Singularity
 - [ ] Manipularity
 
+### Inverse kinematic of open chains robots
+
+
 
 
