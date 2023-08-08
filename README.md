@@ -35,6 +35,9 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Manipularity
 
 ### Inverse kinematic of open chains robots
+- [ ] Numerical solutions
+- [ ] Newton-Raphson Method
+- [ ] Minimal coordinates and matrices
 
 
 
