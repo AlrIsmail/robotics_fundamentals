@@ -39,6 +39,10 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Newton-Raphson Method
 - [ ] Minimal coordinates and matrices
 
-
+### Kinematic of closed chains robots
+- [ ] Forward kinematics
+- [ ] Velocity kinematics
+- [ ] Inverse kinematics
+- [ ] Singularity
 
 
