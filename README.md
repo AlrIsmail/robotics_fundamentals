@@ -45,4 +45,5 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Inverse kinematics
 - [ ] Singularity
 
-
+### Dynamics of open chains robots
+- [ ] Lagrangian dynamics
