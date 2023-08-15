@@ -47,3 +47,6 @@ This repository contains personal code and notes focusing on robotics fundamenta
 
 ### Dynamics of open chains robots
 - [ ] Lagrangian dynamics
+- [ ] Newton-Euler equation
+- [ ] Motion equations
+- [ ] Inertia matrix
