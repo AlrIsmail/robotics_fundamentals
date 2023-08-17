@@ -50,3 +50,5 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Newton-Euler equation
 - [ ] Motion equations
 - [ ] Inertia matrix
+- [ ] Constrains
+- [ ] Actuation and Gearing
