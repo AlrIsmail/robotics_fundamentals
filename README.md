@@ -68,4 +68,6 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [Modern Robotics: Mechanics, Planning, and Control" by Kevin M. Lynch and Frank C. Park](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
 - [Kilman Filter](http://www.kalmanfilter.net)
 - [Statistics IB](http://www.statslab.cam.ac.uk/Dept/People/djsteaching/S1B-17-01-intro-prob-4.pdf)
+- [Bayesian Estimation](https://www.probabilitycourse.com/chapter9/9_1_0_bayesian_inference.php)
+
 
