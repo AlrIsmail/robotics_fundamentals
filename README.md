@@ -56,11 +56,10 @@ This repository contains personal code and notes focusing on robotics fundamenta
 ### Bayesian estimation
 - [ ] Probability
 - [ ] Gaussian distribution
+- [ ] Bayesian inference
 - [ ] Bayes' rule
 - [ ] MAP, MMSE, and MLE
-- [ ] Kalman filter
-- [ ] Extended Kalman filter
-- [ ] Unscented Kalman filter
+
 
 
 
