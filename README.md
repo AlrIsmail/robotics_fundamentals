@@ -60,6 +60,18 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Bayes' rule
 - [ ] MAP, MMSE, and MLE
 
+### Computer Vision Camera Models
+- [ ] Pinhole camera model
+- [ ] Camera and lenses
+- [ ] Camera matrix
+- [ ] Camera projection
+- [ ] Camera calibration
+- [ ] Camera distortion
+- [ ] Rigid transformations
+
+
+
+
 
 
 
@@ -68,5 +80,5 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [Kilman Filter](http://www.kalmanfilter.net)
 - [Statistics IB](http://www.statslab.cam.ac.uk/Dept/People/djsteaching/S1B-17-01-intro-prob-4.pdf)
 - [Bayesian Estimation](https://www.probabilitycourse.com/chapter9/9_1_0_bayesian_inference.php)
-
+- [Computer Vision](https://web.stanford.edu/class/cs231a/index.html)
 
