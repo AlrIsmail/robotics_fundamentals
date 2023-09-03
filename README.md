@@ -69,6 +69,15 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Camera distortion
 - [ ] Rigid transformations
 
+### Computer Vision Single View Metrology
+- [ ] Transformation in 2D
+- [ ] Points and lines infinity
+- [ ] Vanishing points and lines
+
+
+
+
+
 
 
 
