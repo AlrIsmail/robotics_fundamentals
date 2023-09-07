@@ -74,7 +74,11 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Points and lines infinity
 - [ ] Vanishing points and lines
 
-
+### Computer Vision Epipolar Geometry
+- [ ] Epipolar geometry
+- [ ] Fundamental matrix
+- [ ] Essential matrix
+- [ ] Image rectification
 
 
 
