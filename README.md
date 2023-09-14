@@ -81,6 +81,11 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Image rectification
 
 ### Computer Vision Stereo Vision
+- [ ] Stereo vision
+- [ ] Triangulation
+- [ ] Structure from motion
+
+
 
 
 
