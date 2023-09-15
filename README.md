@@ -85,6 +85,11 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Triangulation
 - [ ] Structure from motion
 
+### Computer Vision Active and Volumentric Vision
+- [ ] Active stereo
+- [ ] Volumetric stereo
+
+
 
 
 
