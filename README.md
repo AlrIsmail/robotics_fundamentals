@@ -89,6 +89,12 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Active stereo
 - [ ] Volumetric stereo
 
+### Computer Vision Fitting and Matching
+- [ ] Least squares
+- [ ] RANSAC
+- [ ] Hough transform
+
+
 
 
 
