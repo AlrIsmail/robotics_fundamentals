@@ -94,6 +94,11 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] RANSAC
 - [ ] Hough transform
 
+### Computer Vision Representation learning
+- [ ] States and representations
+- [ ] Generative and discriminative
+
+
 
 
 
