@@ -98,6 +98,10 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] States and representations
 - [ ] Generative and discriminative
 
+### Computer Vision Moducular Depth Estimation and Feature Tracking
+- [ ] Depth estimation
+- [ ] Feature tracking
+
 
 
 
