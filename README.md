@@ -102,6 +102,12 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Depth estimation
 - [ ] Feature tracking
 
+### Computer Vision Optical and Scene Flow
+- [ ] Motion field
+- [ ] Optical flow
+
+
+
 
 
 
