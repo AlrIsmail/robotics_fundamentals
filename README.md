@@ -106,6 +106,12 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Motion field
 - [ ] Optical flow
 
+### Computer Vision optimal estimation
+- [ ] State estimation
+- [ ] Bayes filter
+- [ ] Kalman filter
+- [ ] Extended Kalman filter 
+
 
 
 
