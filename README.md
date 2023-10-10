@@ -131,4 +131,5 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [Statistics IB](http://www.statslab.cam.ac.uk/Dept/People/djsteaching/S1B-17-01-intro-prob-4.pdf)
 - [Bayesian Estimation](https://www.probabilitycourse.com/chapter9/9_1_0_bayesian_inference.php)
 - [Computer Vision](https://web.stanford.edu/class/cs231a/index.html)
+- [OpenCV](https://docs.opencv.org/4.x/d9/df8/tutorial_root.html)
 
