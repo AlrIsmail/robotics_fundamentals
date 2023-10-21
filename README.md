@@ -112,6 +112,19 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Kalman filter
 - [ ] Extended Kalman filter 
 
+### OpenCV Fundamentals
+- [ ] Image representation
+- [ ] Image transformation
+- [ ] Image processing
+- [ ] Image filtering
+- [ ] Image segmentation
+- [ ] Image feature detection
+- [ ] Image feature description
+- [ ] Image feature matching
+- [ ] Image feature tracking
+
+### OpenCV Camera Calibration and 3D Reconstruction
+
 
 
 
