@@ -1,4 +1,4 @@
-# Robotics Fundamentals
+# Robotics Fundamentals Docs
 <div>
     <img src="images/_21e5de52-cee1-4fc3-85a9-2840a3a7633e.jpg" width="400"/>
     <img src="images/_884024fc-ca71-4bf2-83b1-0ae7e9204b34.jpg" width="400"/>
@@ -124,18 +124,14 @@ This repository contains personal code and notes focusing on robotics fundamenta
 - [ ] Image feature tracking
 
 ### OpenCV Camera Calibration and 3D Reconstruction
+- [ ] Camera calibration
+- [ ] Camera pose estimation
+- [ ] 3D reconstruction
 
-
-
-
-
-
-
-
-
-
-
-
+### OpenCV Machine Learning
+- [ ] K-Nearest Neighbors
+- [ ] Support Vector Machines
+- [ ] K-Means Clustering
 
 
 ## Resources
